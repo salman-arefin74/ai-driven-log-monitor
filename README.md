@@ -37,8 +37,6 @@ With DBSCAN, we can differentiate logs as follows:
 ## How to Run and Test the System
 1. Ensure you have Python and necessary packages installed:
 ```
-bash
-
 pip install numpy pandas sklearn sentence-transformers
 ```
 
